@@ -15,3 +15,7 @@ The app allows you to:
 
 It maintains your score and displays whether you have answered correctly or not
 The app provides an option to play again if you wish to continue after the timer runs out of time.
+
+![](BrainTrainer%20Screenshots/Screenshot%20(1).png)
+
+Enjoy!!
